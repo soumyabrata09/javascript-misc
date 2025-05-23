@@ -1,0 +1,31 @@
+{
+  "name": "javascript-misc",
+  "version": "1.0.0",
+  "description": "Miscellaneous Javascript code sample",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "product-array": "node src/product-array-puzzle.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/soumyabrata09/javascript-misc"
+  },
+  "keywords": [
+    "tmp"
+  ],
+  "author": "soumyabrata09",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^5.4.1",
+    "forever": "^1.0.1",
+    "http-server": "^14.1.1",
+    "jsdom": "^26.1.0",
+    "xlsx": "^0.18.5",
+    "xlsx-style": "^0.8.13"
+  },
+  "devDependencies": {
+    "@types/node": "^22.15.21"
+  }
+}
