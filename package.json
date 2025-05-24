@@ -7,7 +7,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "product-array": "node src/product-array-puzzle.js",
-    "sign-product-array": "node src/sign-of-product-array.js"
+    "sign-product-array": "node src/sign-of-product-array.js",
+    "min-avg": "node src/minimum-avg.js"
   },
   "repository": {
     "type": "git",
